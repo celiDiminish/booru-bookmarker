@@ -1,0 +1,5 @@
+# Private legal research notes (local only, never publish)
+docs/legal/
+
+# Personal Claude Code settings
+.claude/settings.local.json
